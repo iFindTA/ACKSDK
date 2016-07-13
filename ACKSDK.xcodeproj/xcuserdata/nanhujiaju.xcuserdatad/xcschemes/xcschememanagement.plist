@@ -9,9 +9,24 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>RDACK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>608356B81C797159002FE317</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>608356C11C797159002FE317</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>609ADF821C76AE040039C176</key>
 		<dict>
 			<key>primary</key>

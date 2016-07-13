@@ -10,4 +10,9 @@
 
 @implementation ACKSDK
 
+- (id)init {
+    self = [super init];;
+    return self;
+}
+
 @end

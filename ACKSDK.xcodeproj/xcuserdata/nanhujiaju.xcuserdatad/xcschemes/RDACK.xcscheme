@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "609ADF821C76AE040039C176"
-               BuildableName = "libACKSDK.a"
-               BlueprintName = "ACKSDK"
+               BlueprintIdentifier = "608356B81C797159002FE317"
+               BuildableName = "RDACK.framework"
+               BlueprintName = "RDACK"
                ReferencedContainer = "container:ACKSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "608356C11C797159002FE317"
+               BuildableName = "RDACKTests.xctest"
+               BlueprintName = "RDACKTests"
+               ReferencedContainer = "container:ACKSDK.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "608356B81C797159002FE317"
+            BuildableName = "RDACK.framework"
+            BlueprintName = "RDACK"
+            ReferencedContainer = "container:ACKSDK.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "609ADF821C76AE040039C176"
-            BuildableName = "libACKSDK.a"
-            BlueprintName = "ACKSDK"
+            BlueprintIdentifier = "608356B81C797159002FE317"
+            BuildableName = "RDACK.framework"
+            BlueprintName = "RDACK"
             ReferencedContainer = "container:ACKSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "609ADF821C76AE040039C176"
-            BuildableName = "libACKSDK.a"
-            BlueprintName = "ACKSDK"
+            BlueprintIdentifier = "608356B81C797159002FE317"
+            BuildableName = "RDACK.framework"
+            BlueprintName = "RDACK"
             ReferencedContainer = "container:ACKSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
